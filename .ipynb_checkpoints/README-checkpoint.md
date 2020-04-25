@@ -8,5 +8,7 @@ My AI project . Don't know where we heading.
   - Explore how to make "Model"
   - split data into 2 side => 80% for train , 20% for test
   - first configuration for InceptionV3
+  - first training session (AUC around 0.4 || pretty low !! need to improve)
+  - first predict (AUC > 0.5 have 600+ from 1022, Not bad !)
 # Things that ignored
   - data Folder
