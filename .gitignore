@@ -1,6 +1,12 @@
 #Ignore Resource . You have to download on your own on my google drive
 
-data/
+data_1000/
+data_4500/
+
 example1.jpg
 data.rar
 Third Run.png
+Test_GPU.ipynb
+
+#Ignore Model File at first coz' i have no idea what to do with it , yet
+*.hdf5
