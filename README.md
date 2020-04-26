@@ -13,5 +13,9 @@ My AI project . Don't know where we heading.
   - secound training session (BAD AUC , Inaccuracy)
   - second predict (AUC < 0.1 , Terrible)
   - thrid train and run (Good configuration but Does it suitable for the job ?)
+  - 4th training and predict is just a minor setback
+  - 5th training (accuracy is low,Model not ok enough,BUT!!! we're on the right track)
+  - 5th predict (Terrible prediction , Overfitting ? ,too many layers ??)
 # Things that ignored
   - data Folder
+  - Model file (Will be available on Google drive)
