@@ -12,5 +12,6 @@ My AI project . Don't know where we heading.
   - first predict (AUC > 0.5 have 600+ from 1022, Not bad !)
   - secound training session (BAD AUC , Inaccuracy)
   - second predict (AUC < 0.1 , Terrible)
+  - thrid train and run (Good configuration but Does it suitable for the job ?)
 # Things that ignored
   - data Folder
