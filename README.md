@@ -16,6 +16,8 @@ My AI project . Don't know where we heading.
   - 4th training and predict is just a minor setback
   - 5th training (accuracy is low,Model not ok enough,BUT!!! we're on the right track)
   - 5th predict (Terrible prediction , Overfitting ? ,too many layers ??)
+  - 6th training and predict is ok (Muti-class)
+  - 7th training and predict is weird (Muti-class and 1 class is lost ??)
 # Things that ignored
   - data Folder
   - Model file (Will be available on Google drive)
