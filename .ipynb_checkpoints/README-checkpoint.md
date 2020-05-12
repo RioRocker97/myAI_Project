@@ -18,6 +18,11 @@ My AI project . Don't know where we heading.
   - 5th predict (Terrible prediction , Overfitting ? ,too many layers ??)
   - 6th training and predict is ok (Muti-class)
   - 7th training and predict is weird (Muti-class and 1 class is lost ??)
+  - Run Fun VGG's Model
+  - /////////////////////////// PHASE 1 /////////////////////////////
+  - A new start
+  - Quick setting up (No finding only for now!)
+  - first train (InceptionV3 + ResNet50)
 # Things that ignored
   - data Folder
   - Model file (Will be available on Google drive)
