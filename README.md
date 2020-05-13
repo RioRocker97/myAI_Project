@@ -23,6 +23,7 @@ My AI project . Don't know where we heading.
   - A new start
   - Quick setting up (No finding only for now!)
   - first train (InceptionV3 + ResNet50)
+  - we try to use pre-trained tensorflow Hub model (ResNet50)
 # Things that ignored
   - data Folder
   - Model file (Will be available on Google drive)
