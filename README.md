@@ -25,6 +25,8 @@ My AI project . Don't know where we heading.
   - first train (InceptionV3 + ResNet50)
   - we try to use pre-trained tensorflow Hub model (ResNet50)
   - first run Hub Resnet50 model is going great ! Begin full training (100 epoch)
+  - run Hub resnet50 success ! (Good result)
+  - run Hub InceptionV3 success ! (Good result)
 # Things that ignored
   - data Folder
   - Model file (Will be available on Google drive)
