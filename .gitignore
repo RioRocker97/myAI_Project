@@ -13,3 +13,4 @@ Test_GPU.ipynb
 #Ignore Model File at first coz' i have no idea what to do with it , yet
 *.hdf5
 *.h5
+Phase1_Train_Model
