@@ -28,6 +28,7 @@ My AI project . Don't know where we heading.
   - run Hub resnet50 success ! (Good result)
   - run Hub InceptionV3 success ! (Good result)
   - train 7 classes on InceptionV3 success ! (Ok?)
+  - train 7 classes on ResNet50 success ! (Peno not ok for me)
 # Things that ignored
   - data Folder
   - Model file (Will be available on Google drive)
