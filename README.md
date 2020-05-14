@@ -27,6 +27,7 @@ My AI project . Don't know where we heading.
   - first run Hub Resnet50 model is going great ! Begin full training (100 epoch)
   - run Hub resnet50 success ! (Good result)
   - run Hub InceptionV3 success ! (Good result)
+  - train 7 classes on InceptionV3 success ! (Ok?)
 # Things that ignored
   - data Folder
   - Model file (Will be available on Google drive)
