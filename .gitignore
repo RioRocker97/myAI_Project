@@ -10,8 +10,9 @@ Histroy_Csv/
 example1.jpg
 data.rar
 Test_GPU.ipynb
+*.jpg
 
 #Ignore Model File at first coz' i have no idea what to do with it , yet
 *.hdf5
 *.h5
-Phase1_Train_Model
+Phase1_Train_Model/
