@@ -33,3 +33,4 @@ My AI project . Don't know where we heading.
 # Things that ignored
   - data Folder
   - Model file (Will be available on Google drive)
+  - Good bye Deep learning.
