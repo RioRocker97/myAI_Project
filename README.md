@@ -1,5 +1,6 @@
 # myAI_Project
-My AI project . Don't know where we heading.
+My AI project mainly on deep learning model . This is a part of CN350 : Machine learning and deep learning subject in
+Computer engineering , Thammsart Universty
 
 # Progrssion
   - Get to know Image pre-processing step (skimage,matplotlib)
@@ -34,3 +35,9 @@ My AI project . Don't know where we heading.
   - data Folder
   - Model file (Will be available on Google drive)
   - Good bye Deep learning.
+
+# Conclusion
+  - All deep learning model had been built poorly based on various tutorial throughout the course.
+  - Deep learning model's efficiency is around 55%
+  - Dataset is very small so that why the result is so poor
+
